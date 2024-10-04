@@ -100,9 +100,8 @@ iterate()
 ### Output:
 
 ![stl if else-output](https://github.com/user-attachments/assets/450616be-a913-48d7-ae4a-5d4aadff485d)
+![Screenshot 2024-10-04 105526](https://github.com/user-attachments/assets/5192358e-1f70-4b33-9427-5f97a4fc4816)
 
-
-![whileout-stl](https://github.com/user-attachments/assets/08028607-99d8-48a3-ae5f-8160280d7beb)
 ![switch stl-output](https://github.com/user-attachments/assets/dd14f836-5ebb-4507-a044-b90809a8e221)
 ![stl forloop1](https://github.com/user-attachments/assets/3144661a-d44b-4863-b27f-137cedce805d)
 ![stl whiledo](https://github.com/user-attachments/assets/484a7e8a-3ed0-424e-933c-77c51c78013f)
