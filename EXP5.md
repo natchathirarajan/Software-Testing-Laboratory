@@ -1,4 +1,4 @@
-### date:27-09-2024
+### Date:
 ### Reg no:212221040112
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
