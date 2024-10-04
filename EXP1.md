@@ -1,7 +1,7 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:4-10-24                                                                            
+### REGISTER NUMBER :212221040112
 
 ### AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test 
@@ -14,21 +14,99 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
+```
+##do…while
+def display():
+    start = input("Enter a positive value for START: ")
+    end = input("Enter a positive value for END: ")
+    
+    if start.isnumeric() and end.isnumeric():
+        start = int(start)
+        end = int(end)
+        
+        if start < end :  
+            while start <= end:    
+                print(start, end=' ')
+                start += 1
+    else:
+        print("Enter a valid positive number.")
+
+display()
+ ##while
+start=input("Enter a positive value for START: ")
+end=input("Entera positive value for END: ")
+if start.isnumeric() and end.isnumeric():
+    start =int(start)
+    end = int(end)
+    
+    while start < end:
+        print(start)
+        start+=1
+else:
+    print("Enter a valid positive number.")
+
+###switch\
+def switch():
+    switcher = {
+        0: "even",
+        1: "odd"
+    }
+
+    n = input('Enter a value for N: ')
+    try:
+        n = int(n)
+        print(switcher[n % 2])
+    except ValueError:
+        print("Enter a valid number.")
+
+switch()
+
+##ifelse
+def compare():
+    a = input("Enter a value for A: ")
+    b = input("Enter a value for B: ")
+    
+    try:
+        a = int(a)
+        b = int(b)
+        
+        if a > b:
+            print("A is greater than B")
+        elif a < b:
+            print("B is greater than A")
+        else:
+            print("A is equal to B")
+    
+    except ValueError:
+        print("Enter a valid number.")
 
 
+compare()
 
 
+##for
+def iterate():
+    string = input("Enter a string: ")
+    for i in string:
+        print(ord(i), end=" ")
 
-
-
-
-
+iterate()
 
 
 
 
 
 ### Output:
+![stl if else-output](https://github.com/user-attachments/assets/0dc51b2b-3371-43cd-abd8-2ab67bb1730a)
+![stl whiledo](https://github.com/user-attachments/assets/d1f702a1-b6c5-4ce4-b61f-20d6750c7889)
+
+![stl forloop1](https://github.com/user-attachments/assets/f2ae4cf5-141c-4139-8adb-bc00f831a952)
+![switch stl-output](https://github.com/user-attachments/assets/bf47d0d0-5383-404f-bd0c-7e4ef8de6f49)
+![whileout-stl](https://github.com/user-attachments/assets/72af7e08-17f5-49f4-b037-fec6a0c03155)
+
+
+
+
 
 
 
