@@ -97,15 +97,14 @@ iterate()
 
 
 ### Output:
-![stl if else-output](https://github.com/user-attachments/assets/0dc51b2b-3371-43cd-abd8-2ab67bb1730a)
-![stl whiledo](https://github.com/user-attachments/assets/d1f702a1-b6c5-4ce4-b61f-20d6750c7889)
 
-![stl forloop1](https://github.com/user-attachments/assets/f2ae4cf5-141c-4139-8adb-bc00f831a952)
-![switch stl-output](https://github.com/user-attachments/assets/bf47d0d0-5383-404f-bd0c-7e4ef8de6f49)
-![whileout-stl](https://github.com/user-attachments/assets/72af7e08-17f5-49f4-b037-fec6a0c03155)
+![stl if else-output](https://github.com/user-attachments/assets/450616be-a913-48d7-ae4a-5d4aadff485d)
 
 
-
+![whileout-stl](https://github.com/user-attachments/assets/08028607-99d8-48a3-ae5f-8160280d7beb)
+![switch stl-output](https://github.com/user-attachments/assets/dd14f836-5ebb-4507-a044-b90809a8e221)
+![stl forloop1](https://github.com/user-attachments/assets/3144661a-d44b-4863-b27f-137cedce805d)
+![stl whiledo](https://github.com/user-attachments/assets/484a7e8a-3ed0-424e-933c-77c51c78013f)
 
 
 
